@@ -1,0 +1,24 @@
+CMakeFiles/json-c-static.dir/strerror_override.c.o: \
+ /home/user/Desktop/jsonchik/json-c/strerror_override.c \
+ /home/user/Desktop/jsonchik/json-c/strerror_override.h \
+ /home/user/Desktop/jsonchik/N/config.h \
+ /home/user/Desktop/mipc-compiler/mips-gcc472-glibc216-64bit/bin/../mips-linux-gnu/libc/uclibc/usr/include/errno.h \
+ /home/user/Desktop/mipc-compiler/mips-gcc472-glibc216-64bit/bin/../mips-linux-gnu/libc/uclibc/usr/include/features.h \
+ /home/user/Desktop/mipc-compiler/mips-gcc472-glibc216-64bit/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/uClibc_config.h \
+ /home/user/Desktop/mipc-compiler/mips-gcc472-glibc216-64bit/bin/../mips-linux-gnu/libc/uclibc/usr/include/sys/cdefs.h \
+ /home/user/Desktop/mipc-compiler/mips-gcc472-glibc216-64bit/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/errno.h \
+ /home/user/Desktop/mipc-compiler/mips-gcc472-glibc216-64bit/bin/../mips-linux-gnu/libc/uclibc/usr/include/linux/errno.h \
+ /home/user/Desktop/mipc-compiler/mips-gcc472-glibc216-64bit/bin/../mips-linux-gnu/libc/uclibc/usr/include/asm/errno.h \
+ /home/user/Desktop/mipc-compiler/mips-gcc472-glibc216-64bit/bin/../mips-linux-gnu/libc/uclibc/usr/include/asm-generic/errno-base.h \
+ /home/user/Desktop/jsonchik/json-c/json_object.h \
+ /home/user/Desktop/jsonchik/json-c/json_inttypes.h \
+ /home/user/Desktop/jsonchik/N/json_config.h \
+ /home/user/Desktop/mipc-compiler/mips-gcc472-glibc216-64bit/bin/../mips-linux-gnu/libc/uclibc/usr/include/inttypes.h \
+ /home/user/Desktop/mipc-compiler/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/include/stdint.h \
+ /home/user/Desktop/mipc-compiler/mips-gcc472-glibc216-64bit/bin/../mips-linux-gnu/libc/uclibc/usr/include/stdint.h \
+ /home/user/Desktop/mipc-compiler/mips-gcc472-glibc216-64bit/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/wchar.h \
+ /home/user/Desktop/mipc-compiler/mips-gcc472-glibc216-64bit/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/wordsize.h \
+ /home/user/Desktop/jsonchik/json-c/json_types.h \
+ /home/user/Desktop/jsonchik/json-c/printbuf.h \
+ /home/user/Desktop/mipc-compiler/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/include/stddef.h \
+ /home/user/Desktop/mipc-compiler/mips-gcc472-glibc216-64bit/bin/../mips-linux-gnu/libc/uclibc/usr/include/string.h
